@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Rytis K. Jonynas</title>
-    <link>http://jonynas.com/</link>
+    <link>http://www.jonynas.com/</link>
     <description>Recent content on Rytis K. Jonynas</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Jun 2022 23:06:33 +0800</lastBuildDate><atom:link href="http://jonynas.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 Jun 2022 23:06:33 +0800</lastBuildDate><atom:link href="http://www.jonynas.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>DNA storage 101</title>
-      <link>http://jonynas.com/posts/my-first-post/</link>
+      <link>http://www.jonynas.com/posts/my-first-post/</link>
       <pubDate>Sun, 05 Jun 2022 23:06:33 +0800</pubDate>
       
-      <guid>http://jonynas.com/posts/my-first-post/</guid>
+      <guid>http://www.jonynas.com/posts/my-first-post/</guid>
       <description>this will be the text of an upcoming post on data storage in artificial DNA strands</description>
     </item>
     
